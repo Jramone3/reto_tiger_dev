@@ -21,6 +21,7 @@ reto_tiger_dev/
  │    └── informe_reto_tiger.md
  └── demo/
       └── script_tiger.sh
+```
 
 🚀 Instalación / Installation
 
