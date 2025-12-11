@@ -1,8 +1,11 @@
 # Reto Tiger/Dev
 
 Documentación y demos del desafío Tiger.  
-Incluye scripts reproducibles, migraciones técnicas y reporte bilingüe.
+Incluye scripts reproducibles, migraciones técnicas y narrativa bilingüe para onboarding comunitario.
 
-## Contenido
-- `docs/informe_reto_tiger.md`: Informe técnico y narrativo.
-- `demo/script_tiger.sh`: Script de demostración.
+---
+
+# Tiger/Dev Challenge
+
+Documentation and demos of the Tiger challenge.  
+Includes reproducible scripts, technical migrations, and bilingual narrative for community onboarding.
